@@ -1,0 +1,14 @@
+body{
+    background-color: #ffffff;
+    
+}
+
+#header{
+    text-align: center;
+    color: blue;
+}
+
+.paragraph{
+    text-align: center;
+    font-size: 30px;
+}
