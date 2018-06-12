@@ -12,3 +12,25 @@ body{
     text-align: center;
     font-size: 30px;
 }
+.row{   
+
+    color:blue;
+    font-size:50px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Exo 2', sans-serif;
+    font-style: italic;
+
+}
+
+.blocks{
+    border: 5px solid black; 
+    margin: 35px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.blocks:hover {
+    font-size: 60px;
+    color: purple;
+}
