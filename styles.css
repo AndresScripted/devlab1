@@ -11,6 +11,7 @@
 .headshot{
     width:20%;
     margin: 50px;
+    border: 5px solid black;
 }
 .mid{
     background-color:white;
@@ -37,4 +38,9 @@
 .blocks:hover {
     font-size: 60px;
     color: purple;
+}
+.tmahs{
+    border: 5px solid black;
+    
+    
 }
